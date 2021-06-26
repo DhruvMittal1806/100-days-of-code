@@ -5,7 +5,7 @@
 
 **Thoughts:** Reading the documentation again after using the framework practically was more helpfull.
 
-### Day 0: June 26, 2021
+### Day 1: June 26, 2021
 **Today's Progress**: Completed React tic-tac-toe game.
 
 **Thoughts:** Even though I've experiences react before but still I learnt a few new things about it.

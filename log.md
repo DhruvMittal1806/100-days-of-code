@@ -9,6 +9,11 @@
 **Today's Progress**: Completed React tic-tac-toe game.
 
 **Thoughts:** Even though I've experiences react before but still I learnt a few new things about it.
+
+### Day 1: June 27, 2021
+**Today's Progress**: Added timeline functionality to the tic-tac-toe game
+
+**Thoughts:** It was pretty cool
 <!-- ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.

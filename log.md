@@ -14,6 +14,10 @@
 **Today's Progress**: Added timeline functionality to the tic-tac-toe game
 
 **Thoughts:** It was pretty cool
+
+### Day 1: June 28, 2021
+**Today's Progress**: Tried Redux today.
+
 <!-- ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.

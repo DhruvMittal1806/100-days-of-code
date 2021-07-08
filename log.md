@@ -18,6 +18,9 @@
 ### Day 1: June 28, 2021
 **Today's Progress**: Tried Redux today.
 
+### Day 1: July 08, 2021
+**Today's Progress**: Practiced more Redux.
+
 <!-- ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.

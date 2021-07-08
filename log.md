@@ -10,15 +10,15 @@
 
 **Thoughts:** Even though I've experiences react before but still I learnt a few new things about it.
 
-### Day 1: June 27, 2021
+### Day 2: June 27, 2021
 **Today's Progress**: Added timeline functionality to the tic-tac-toe game
 
 **Thoughts:** It was pretty cool
 
-### Day 1: June 28, 2021
+### Day 3: June 28, 2021
 **Today's Progress**: Tried Redux today.
 
-### Day 1: July 08, 2021
+### Day 4: July 08, 2021
 **Today's Progress**: Practiced more Redux.
 
 <!-- ##### (delete me or comment me out)

@@ -1,25 +1,25 @@
 # 100 Days Of Code - Log
 
 ### Day 0: June 25, 2021
-**Today's Progress**: Revisited JS basics and started building the tic-tac-toe game in react.
+**Progress**: Revisited JS basics and started building the tic-tac-toe game in react.
 
 **Thoughts:** Reading the documentation again after using the framework practically was more helpfull.
 
 ### Day 1: June 26, 2021
-**Today's Progress**: Completed React tic-tac-toe game.
+**Progress**: Completed React tic-tac-toe game.
 
 **Thoughts:** Even though I've experiences react before but still I learnt a few new things about it.
 
 ### Day 2: June 27, 2021
-**Today's Progress**: Added timeline functionality to the tic-tac-toe game
+**Progress**: Added timeline functionality to the tic-tac-toe game
 
 **Thoughts:** It was pretty cool
 
 ### Day 3: June 28, 2021
-**Today's Progress**: Tried Redux today.
+**Progress**: Tried Redux today.
 
 ### Day 4: July 08, 2021
-**Today's Progress**: Practiced more Redux.
+**Progress**: Practiced more Redux.
 
 <!-- ##### (delete me or comment me out)
 
